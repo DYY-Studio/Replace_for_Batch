@@ -1,0 +1,2 @@
+# Replace_for_Batch
+Windows批量处理脚本的通用StringReplace模块
