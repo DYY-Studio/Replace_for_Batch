@@ -84,6 +84,10 @@
   
 最新版本
 =
+> Replace for Batch V4F2_F [200307]
+
+	与RenameFiles同时更新，修复了因IF无法比较"26"和"027"谁大而导致Replace无法处理最后一个字符
+
 > Replace for Batch V4F2 [200123]
 
 	本版本是效率更新，基本算法与V4F相同
