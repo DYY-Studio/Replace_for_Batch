@@ -4,7 +4,7 @@
 
 告知
 =
-在新版Windows 10 中，set指令已更新支持原生Replace方法，使用方法如下
+在新版Windows 10 中，变量扩展已更新支持原生Replace方法，使用方法如下
 
 	%a:str1=str2%
 
