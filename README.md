@@ -2,6 +2,16 @@
 ### Copyright(c) 2019-2020 yyfll (yanyifei66@gmail.com)
 ### 本模块旨在为Batch用户提供稳定、便利、正确的字符替换方式
 
+告知
+=
+在新版Windows 10 中，set指令已更新支持原生Replace方法，使用方法如下
+
+	%a:str1=str2%
+
+该变量`%a%`中的`str1`就会被替换为`str2`，并且速度很快，同时兼容与号
+
+我很高兴能够维护Replace_for_Batch至今，该项目至此结束，谢谢
+
 使用方法
 =
 您可以把该模块直接塞进您的BAT中
