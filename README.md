@@ -91,8 +91,21 @@
 	您也可以手动修改"insert_collect"变量来变更输入限制
 	("insert_collect"变量中包含的字符必须有一个不在输入字符串中出现)
 
+最终决定版本
+=
+### Replace for Batch V4F3 UTF8
+
+	我也不记得修正了什么了
+	
+### Replace for Batch V4F3-2a UTF8
+
+	V4F3-2的可选版本a
+	
+### Replace for Batch V4F3-2d UTF8
+
+	V4F3-2的可选版本d
   
-最新版本
+FIX版本
 =
 > Replace for Batch V4F2_F [200307]
 
