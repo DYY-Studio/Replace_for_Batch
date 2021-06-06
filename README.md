@@ -2,6 +2,8 @@
 ### Copyright(c) 2019-2020 yyfll (yanyifei66@gmail.com)
 ### 本模块旨在为Batch用户提供稳定、便利、正确的字符替换方式
 
+# 本模块已停止维护
+
 告知
 =
 在新版Windows 10 中，变量扩展已更新支持原生Replace方法，使用方法如下
